@@ -1,0 +1,38 @@
+body{
+    background-color: #e4ebff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    line-height: 1.5;
+}
+
+h1{
+    color: rgb(99, 55, 156);
+    text-align: center;
+    font-size: 40px;
+}
+
+p.destacado{
+    background-color: cadetblue;
+    font-weight: bold;
+}
+
+h2.subtitulo{
+    color: rgb(136, 135, 138);
+    text-decoration: underline;
+}
+
+div.caja-info p{
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+a[target="_blank"]{
+    color: rgb(155, 123, 214);
+}
+
+a{
+text-decoration: none;
+}
+
