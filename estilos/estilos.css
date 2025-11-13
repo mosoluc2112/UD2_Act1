@@ -29,7 +29,7 @@ div.caja-info p{
 }
 
 a[target="_blank"]{
-    color: rgb(155, 123, 214);
+    background-color: rgb(155, 123, 214);
 }
 
 a{
